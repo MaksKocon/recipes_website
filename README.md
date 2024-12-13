@@ -1,4 +1,5 @@
 # recipes_website
+Instrukcja odpalania lokalnie
 1. Pobierz i zainstaluj XAMPP
 Pobierz instalator XAMPP z oficjalnej strony.
 Zainstaluj XAMPP na swoim komputerze, wybierając opcje:
